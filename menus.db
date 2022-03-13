@@ -1,0 +1,7 @@
+sample.db
+
+create table menus(
+fooditem varchar(125));
+.
+.
+.

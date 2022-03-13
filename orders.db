@@ -1,0 +1,12 @@
+sample.db
+
+create table orders(
+name varname(25),
+address varname(125),
+fooditem varchar(100),
+restaurent varname(125),
+status varchar(10));
+
+insert into orders('Pranav', 'Aggrahara ITPL Gate 3 Whitefield Near Siva PG', 'Chicken Biryani',
+ 'Hyderabadi Chicken Restuarent Near Manipal', 'Ordered');
+
